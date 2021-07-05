@@ -58,8 +58,10 @@ Use the above to answer the following:
 
 > Which model has a lower loss?
 >> The lower loss was the *_closing model_*
+
 > Which model tracks the actual values better over time?
 >> The better tracking (in regards to tracking % up / down) is the _closing model
+
 > Which window size works best for the model?
 >> I really made all kinds of changes and Shift+Entered a lot to wait for these outcomes only to discover.... its 1
 
